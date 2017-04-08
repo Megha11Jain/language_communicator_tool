@@ -1,0 +1,2 @@
+# language_communicator_tool
+Multilingual Generation
